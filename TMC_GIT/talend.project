@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_G5IpcX2tEeuWgPayQ8JKSw" label="TMC_GIT" description="Training project" language="java" technicalLabel="TMC_GIT" author="_G5Ipcn2tEeuWgPayQ8JKSw" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20201125_1449-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rcarson222/git-training-tmc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_G8am8H2tEeuWgPayQ8JKSw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_G5Ipcn2tEeuWgPayQ8JKSw" login="robert_carson@slc.co.uk" firstName="Rob" lastName="Carson" type="DQ"/>
+</xmi:XMI>
